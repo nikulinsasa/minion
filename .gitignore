@@ -3,4 +3,8 @@ Icon?
 .svn
 nbproject
 Thumbs.db
-*.komodoproject
+*.komodoprojectnohup.out
+minion1.log
+minion2.log
+minion3.log
+minion.log
