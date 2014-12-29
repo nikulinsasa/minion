@@ -1,3 +1,6 @@
+Please, better use [[https://github.com/kohana/minion.git]] `k3.2-v1.0` branch for Kohana 3.2
+But if you want, you can use my modification.
+
 #Version for 3.2
 
 This version was forked from 3.3/master, and classes names replaced from uppercase to lowercase in 3.2 style.
